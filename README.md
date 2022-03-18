@@ -2,7 +2,7 @@
 Canada CBSA PARS number lookup to see status and information.
 
 # CanData Response Codes to CBSA Status
-            case "1":
+						case "1":
 							return "(1) Message Content Accepted";
 							break;
 						
